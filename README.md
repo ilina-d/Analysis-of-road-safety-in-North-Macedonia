@@ -48,6 +48,7 @@ The safety of each section is quantified in two ways:
  
 - **`Target_Wi`** — the mean `Wi` across all years the section existed (null years excluded), clipped to a maximum of 30.
 - **`Target_Stars`** — an ordinal IRAP-aligned star rating (1–5) derived from `Target_Wi`:
+
 | Stars | Wi Range |
 |---|---|
 | ⭐⭐⭐⭐⭐ (5) | 0 – 2 |
